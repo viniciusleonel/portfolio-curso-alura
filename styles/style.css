@@ -140,3 +140,22 @@ body{
         width: auto;
     }
 }
+
+@media (max-width: 440px) {
+    .cabecalho{
+        padding-left: 8%;
+        padding-right: 8%;
+    }
+
+    .cabecalho__menu{
+        gap: 30px;
+    }
+
+    .apresentacao__links__navegacao{
+        width: 65%;
+    }
+
+    .rodape{
+        font-size: 1rem;
+    }
+}
