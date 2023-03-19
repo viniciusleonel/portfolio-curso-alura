@@ -151,6 +151,10 @@ body{
         gap: 30px;
     }
 
+    .apresentacao{
+        gap: 40px;
+    }
+    
     .apresentacao__links__navegacao{
         width: 65%;
     }
