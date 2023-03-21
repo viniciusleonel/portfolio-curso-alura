@@ -102,7 +102,7 @@ body{
     gap: 16px;
 }
 
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
     color: var(--cor-terciaria);
     border: 6px solid var(--cor-terciaria);
